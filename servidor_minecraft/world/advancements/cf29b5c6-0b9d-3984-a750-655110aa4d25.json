@@ -311,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-12 00:50:12 +0000"
+    },
+    "done": true
+  },
   "framedblocks:recipes/framed_blocks/framed_button": {
     "criteria": {
       "hasFramedBlock": "2025-02-11 19:54:13 +0000"
@@ -452,6 +458,12 @@
   "framedblocks:recipes/framed_blocks/framed_stairs": {
     "criteria": {
       "hasFramedBlock": "2025-02-11 19:54:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-12 00:50:12 +0000"
     },
     "done": true
   },
@@ -623,6 +635,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-02-12 00:50:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-02-11 19:30:12 +0000"
@@ -632,6 +650,12 @@
   "framedblocks:recipes/framed_blocks/framed_collapsible_block": {
     "criteria": {
       "hasFramedBlock": "2025-02-11 19:54:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-02-12 00:49:48 +0000"
     },
     "done": true
   },
@@ -656,6 +680,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-12 00:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-02-12 00:50:12 +0000"
     },
     "done": true
   },
@@ -863,6 +893,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-12 00:50:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-02-11 21:01:20 +0000"
@@ -908,6 +944,18 @@
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-02-11 19:45:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_oak_planks": "2025-02-12 00:50:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-12 00:50:12 +0000"
     },
     "done": true
   },
@@ -968,6 +1016,12 @@
   "framedblocks:recipes/framed_blocks/framed_gate": {
     "criteria": {
       "hasFramedBlock": "2025-02-11 19:54:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-02-12 00:50:12 +0000"
     },
     "done": true
   },
@@ -1050,6 +1104,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-02-11 21:01:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-02-12 00:50:12 +0000"
     },
     "done": true
   },

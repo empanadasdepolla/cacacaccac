@@ -28,6 +28,14 @@ regions:
         owners: {}
         type: cuboid
         priority: 0
+    escribe:
+        min: {x: -2335, y: 70, z: 332}
+        max: {x: -2325, y: 70, z: 344}
+        members: {}
+        flags: {}
+        owners: {}
+        type: cuboid
+        priority: 0
     __global__:
         members: {}
         flags: {tnt: deny}
