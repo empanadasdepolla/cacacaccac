@@ -12034,3 +12034,14 @@
 [01:31:53] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 20 mods : minecraft, framedblocks, blockyragecivil, blockyragecraft, blockyrageaftermarket, blockyrageheavy, mtsofficialpack, minecraftmodernxl, obfuscate, forge, tac, knightquestbp, tlskincape, luckytntmod, mts, craftspeed, craftspeedengines, craftspeedwheels, craftspeedparts, craftspeedplates
 [01:31:56] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Camilacapita[/127.233.156.68:59297] logged in with entity id 28,924 at (-2,295.5, 71.022, 316.5)
 [01:31:56] [Server thread/INFO] [tac/]: PENDING
+[01:39:12] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Flancito0_ lost connection: Disconnected
+[01:39:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flancito0_ left the game
+[01:39:16] [User Authenticator #17/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Flancito0_ is 807d4b02-2892-3ac2-a000-a9c5173caa95
+[01:39:17] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 21 mods : minecraft, framedblocks, mtsofficialpack, minecraftmodernxl, obfuscate, mts, jei, craftspeed, craftspeedengines, craftspeedwheels, craftspeedparts, craftspeedplates, blockyragecivil, blockyragecraft, blockyrageaftermarket, blockyrageheavy, forge, tac, knightquestbp, tlskincape, luckytntmod
+[01:39:20] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Flancito0_[/127.178.87.29:52581] logged in with entity id 30,142 at (-2,329.381, 71, 337.649)
+[01:39:20] [Server thread/INFO] [tac/]: PENDING
+[01:40:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita was slain by Flancito0_
+[01:40:20] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Camilacapita lost connection: Disconnected
+[01:40:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita left the game
+[01:40:24] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Flancito0_ lost connection: Disconnected
+[01:40:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flancito0_ left the game
