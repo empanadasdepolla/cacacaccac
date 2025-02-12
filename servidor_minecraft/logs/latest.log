@@ -11772,3 +11772,107 @@
 [00:31:51] [Async Chat Thread - 2/INFO] [/]: <Camilacapita> leo tp a fran uwu
 [00:31:59] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sofx0Loder issued server command: /tp Camilacapita Flancito0_
 [00:31:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sofx0Loder: Teleported Camilacapita to Flancito0_]
+[00:32:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flancito0_ blew up
+[00:32:14] [Server thread/INFO] [tac/]: PENDING
+[00:32:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flancito0_ was run over
+[00:32:49] [Server thread/INFO] [tac/]: PENDING
+[00:32:54] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sofx0Loder issued server command: /tp @a Sofx0Loder
+[00:32:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sofx0Loder: Teleported 3 entities to Sofx0Loder]
+[00:33:09] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sofx0Loder issued server command: /gamemode survival @a
+[00:33:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[00:33:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sofx0Loder: Set Camilacapita's game mode to Survival Mode]
+[00:33:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flancito0_ was blown up by Camilacapita
+[00:33:14] [Server thread/INFO] [tac/]: PENDING
+[00:33:15] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sofx0Loder issued server command: /clear @a
+[00:33:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sofx0Loder: Removed 12 items from 3 players]
+[00:33:19] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sofx0Loder issued server command: /tp @a Sofx0Loder
+[00:33:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sofx0Loder: Teleported 3 entities to Sofx0Loder]
+[00:33:21] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sofx0Loder issued server command: /tp @a Sofx0Loder
+[00:33:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sofx0Loder: Teleported 3 entities to Sofx0Loder]
+[00:33:27] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sofx0Loder issued server command: /effect clear Camilacapita
+[00:33:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sofx0Loder: Removed every effect from Camilacapita]
+[00:33:33] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sofx0Loder issued server command: /tp @a Sofx0Loder
+[00:33:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sofx0Loder: Teleported 3 entities to Sofx0Loder]
+[00:33:37] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sofx0Loder issued server command: /gamemode creative
+[00:33:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[00:33:41] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[00:33:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita was taken down by Sofx0Loder
+[00:33:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flancito0_ was eliminated by Sofx0Loder
+[00:33:44] [Server thread/INFO] [tac/]: PENDING
+[00:33:45] [Server thread/INFO] [tac/]: PENDING
+[00:33:53] [Async Chat Thread - 3/INFO] [/]: <Camilacapita> leo hagamos los juegos
+[00:33:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flancito0_ was eliminated by Sofx0Loder
+[00:33:57] [Server thread/INFO] [tac/]: PENDING
+[00:33:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita was decimated by Sofx0Loder
+[00:33:59] [Server thread/INFO] [tac/]: PENDING
+[00:34:05] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sofx0Loder issued server command: /time set day
+[00:34:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sofx0Loder: Set the time to 1000]
+[00:34:09] [Async Chat Thread - 3/INFO] [/]: <Camilacapita> dame creativo pa eso uwu
+[00:34:21] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sofx0Loder issued server command: /gamerule doDaylightCycle false
+[00:34:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sofx0Loder: Gamerule doDaylightCycle is now set to: false]
+[00:34:22] [Async Chat Thread - 3/INFO] [/]: <Camilacapita> quiero hacer el mini juego que quise
+[00:34:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita was executed by Sofx0Loder
+[00:34:41] [Server thread/INFO] [tac/]: PENDING
+[00:34:45] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[00:34:50] [Async Chat Thread - 3/INFO] [/]: <Camilacapita> leo has /kill xd
+[00:35:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flancito0_ was taken down by Sofx0Loder
+[00:35:01] [Server thread/INFO] [tac/]: PENDING
+[00:35:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita was taken down by Sofx0Loder
+[00:35:06] [Server thread/INFO] [tac/]: PENDING
+[00:35:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita was executed by Sofx0Loder
+[00:35:19] [Server thread/INFO] [tac/]: PENDING
+[00:35:23] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sofx0Loder issued server command: /tp @a Sofx0Loder
+[00:35:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sofx0Loder: Teleported 3 entities to Sofx0Loder]
+[00:35:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita was taken down by Sofx0Loder
+[00:35:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flancito0_ was executed by Sofx0Loder
+[00:35:28] [Server thread/INFO] [tac/]: PENDING
+[00:35:28] [Server thread/INFO] [tac/]: PENDING
+[00:35:30] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sofx0Loder issued server command: /tp @a Sofx0Loder
+[00:35:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sofx0Loder: Teleported 3 entities to Sofx0Loder]
+[00:35:34] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Flancito0_ was kicked for floating too long!
+[00:35:34] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Flancito0_ lost connection: Flying is not enabled on this server
+[00:35:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flancito0_ left the game
+[00:35:37] [Async Chat Thread - 3/INFO] [/]: <Camilacapita> leo /kill pa eliminar los autos xd
+[00:35:38] [User Authenticator #5/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Flancito0_ is 807d4b02-2892-3ac2-a000-a9c5173caa95
+[00:35:39] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 20 mods : minecraft, framedblocks, blockyragecivil, blockyragecraft, blockyrageaftermarket, blockyrageheavy, mtsofficialpack, minecraftmodernxl, obfuscate, forge, tac, knightquestbp, tlskincape, luckytntmod, mts, craftspeed, craftspeedengines, craftspeedwheels, craftspeedparts, craftspeedplates
+[00:35:42] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Flancito0_[/127.178.87.29:44625] logged in with entity id 10,664 at (-2,346.568, 74.529, 336.544)
+[00:35:42] [Server thread/INFO] [tac/]: PENDING
+[00:35:46] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sofx0Loder issued server command: /kill @e
+[00:35:46] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/71, l='ServerLevel[world]', x=-2321.13, y=64.00, z=174.46] died, message: 'Villager fell out of the world'
+[00:35:46] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/112, l='ServerLevel[world]', x=-2351.45, y=63.00, z=146.52] died, message: 'Villager fell out of the world'
+[00:35:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sofx0Loder fell out of the world
+[00:35:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita fell out of the world
+[00:35:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flancito0_ fell out of the world
+[00:35:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sofx0Loder: Killed 134 entities]
+[00:35:47] [Server thread/INFO] [tac/]: PENDING
+[00:35:47] [Server thread/INFO] [tac/]: PENDING
+[00:35:48] [Server thread/INFO] [tac/]: PENDING
+[00:35:48] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sofx0Loder issued server command: /kill @e
+[00:35:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sofx0Loder fell out of the world
+[00:35:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita fell out of the world
+[00:35:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flancito0_ fell out of the world
+[00:35:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sofx0Loder: Killed 39 entities]
+[00:35:49] [Server thread/INFO] [tac/]: PENDING
+[00:35:50] [Server thread/INFO] [tac/]: PENDING
+[00:35:50] [Server thread/INFO] [tac/]: PENDING
+[00:36:11] [Async Chat Thread - 3/INFO] [/]: <Camilacapita> uwu
+[00:36:33] [Async Chat Thread - 3/INFO] [/]: <Camilacapita> hay una cosa de texturas?
+[00:36:50] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[00:36:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita was executed by Sofx0Loder
+[00:36:53] [Server thread/INFO] [tac/]: PENDING
+[00:37:00] [Async Chat Thread - 3/INFO] [/]: <Camilacapita> leo hay un coso de texturas u.u?
+[00:37:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita was executed by Sofx0Loder
+[00:37:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flancito0_ was executed by Sofx0Loder
+[00:37:16] [Server thread/INFO] [tac/]: PENDING
+[00:37:19] [Async Chat Thread - 3/INFO] [/]: <Camilacapita> leo leeme we
+[00:37:23] [Async Chat Thread - 3/INFO] [/]: <Camilacapita> onde
+[00:37:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita was taken down by Sofx0Loder
+[00:37:24] [Server thread/INFO] [tac/]: PENDING
+[00:37:42] [Async Chat Thread - 3/INFO] [/]: <Camilacapita> no descargue ninguna textura u.u
+[00:37:52] [Async Chat Thread - 3/INFO] [/]: <Camilacapita> onde
+[00:37:52] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sofx0Loder issued server command: /tp @a Sofx0Loder
+[00:37:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sofx0Loder: Teleported 3 entities to Sofx0Loder]
+[00:38:06] [Async Chat Thread - 3/INFO] [/]: <Camilacapita> mandalo en priv u.u
+[00:38:34] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Camilacapita lost connection: Disconnected
+[00:38:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita left the game
+[00:38:41] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
