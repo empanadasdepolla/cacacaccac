@@ -1,0 +1,155 @@
+command /escribir <text>:
+    trigger:
+        set {_texto} to lowercase arg-1
+        set {_chars::*} to {_texto} split at ""
+        set {_total} to size of {_chars::*}
+        
+        # Guardamos la ubicación inicial del jugador
+        set {_startLoc} to player's location
+        
+        # Iteramos desde el primer índice hasta el último
+        set {_currentHeight} to {_total} - 2 # Restamos 2 para que comience en la posición del jugador
+        loop {_total} times:
+            set {_index} to loop-number
+            set {_char} to {_chars::%{_index}%}
+            
+            # Calculamos la ubicación para cada bloque (comenzando desde arriba)
+            set {_blockLoc} to location {_currentHeight} blocks above {_startLoc}
+            
+            # Mapeo de letras a bloques
+            if {_char} is "a":
+                set block at {_blockLoc} to white stained glass
+            else if {_char} is "b":
+                set block at {_blockLoc} to light gray stained glass
+            else if {_char} is "c":
+                set block at {_blockLoc} to gray stained glass
+            else if {_char} is "d":
+                set block at {_blockLoc} to black stained glass
+            else if {_char} is "e":
+                set block at {_blockLoc} to brown stained glass
+            else if {_char} is "f":
+                set block at {_blockLoc} to red stained glass
+            else if {_char} is "g":
+                set block at {_blockLoc} to orange stained glass
+            else if {_char} is "h":
+                set block at {_blockLoc} to yellow stained glass
+            else if {_char} is "i":
+                set block at {_blockLoc} to lime stained glass
+            else if {_char} is "j":
+                set block at {_blockLoc} to green stained glass
+            else if {_char} is "k":
+                set block at {_blockLoc} to cyan stained glass
+            else if {_char} is "l":
+                set block at {_blockLoc} to light blue stained glass
+            else if {_char} is "m":
+                set block at {_blockLoc} to blue stained glass
+            else if {_char} is "n":
+                set block at {_blockLoc} to cyan concrete
+            else if {_char} is "ñ":
+                set block at {_blockLoc} to purple stained glass
+            else if {_char} is "o":
+                set block at {_blockLoc} to magenta stained glass
+            else if {_char} is "p":
+                set block at {_blockLoc} to pink stained glass
+            else if {_char} is "q":
+                set block at {_blockLoc} to white concrete
+            else if {_char} is "r":
+                set block at {_blockLoc} to light gray concrete
+            else if {_char} is "s":
+                set block at {_blockLoc} to gray concrete
+            else if {_char} is "t":
+                set block at {_blockLoc} to black concrete
+            else if {_char} is "u":
+                set block at {_blockLoc} to brown concrete
+            else if {_char} is "v":
+                set block at {_blockLoc} to red concrete
+            else if {_char} is "w":
+                set block at {_blockLoc} to orange concrete
+            else if {_char} is "x":
+                set block at {_blockLoc} to yellow concrete
+            else if {_char} is "y":
+                set block at {_blockLoc} to lime concrete
+            else if {_char} is "z":
+                set block at {_blockLoc} to green concrete
+            
+            # Reducimos la altura para el siguiente bloque
+            subtract 1 from {_currentHeight}
+        
+        # Al final, teleportamos al jugador un bloque arriba de la última letra
+        teleport player to location {_total} - 1 blocks above {_startLoc}
+        teleport player to location 1 block above player
+
+command /esch <text>:
+    trigger:
+        set {_texto} to lowercase arg-1
+        set {_chars::*} to {_texto} split at ""
+        set {_total} to size of {_chars::*}
+        
+        # Guardamos las coordenadas iniciales
+        set {_x} to x-coordinate of player's location
+        set {_y} to y-coordinate of player's location - 1 # Restamos 1 a la Y
+        set {_z} to z-coordinate of player's location
+        
+        # Iteramos desde el primer índice hasta el último
+        loop {_total} times:
+            set {_index} to loop-number
+            set {_char} to {_chars::%{_index}%}
+            
+            # Calculamos la nueva coordenada Z (restando para ir hacia atrás)
+            set {_newZ} to {_z} - {_index}
+            
+            # Mapeo de letras a bloques
+            if {_char} is "a":
+                set block at location({_x}, {_y}, {_newZ}) to white stained glass
+            else if {_char} is "b":
+                set block at location({_x}, {_y}, {_newZ}) to light gray stained glass
+            else if {_char} is "c":
+                set block at location({_x}, {_y}, {_newZ}) to gray stained glass
+            else if {_char} is "d":
+                set block at location({_x}, {_y}, {_newZ}) to black stained glass
+            else if {_char} is "e":
+                set block at location({_x}, {_y}, {_newZ}) to brown stained glass
+            else if {_char} is "f":
+                set block at location({_x}, {_y}, {_newZ}) to red stained glass
+            else if {_char} is "g":
+                set block at location({_x}, {_y}, {_newZ}) to orange stained glass
+            else if {_char} is "h":
+                set block at location({_x}, {_y}, {_newZ}) to yellow stained glass
+            else if {_char} is "i":
+                set block at location({_x}, {_y}, {_newZ}) to lime stained glass
+            else if {_char} is "j":
+                set block at location({_x}, {_y}, {_newZ}) to green stained glass
+            else if {_char} is "k":
+                set block at location({_x}, {_y}, {_newZ}) to cyan stained glass
+            else if {_char} is "l":
+                set block at location({_x}, {_y}, {_newZ}) to light blue stained glass
+            else if {_char} is "m":
+                set block at location({_x}, {_y}, {_newZ}) to blue stained glass
+            else if {_char} is "n":
+                set block at location({_x}, {_y}, {_newZ}) to cyan concrete
+            else if {_char} is "ñ":
+                set block at location({_x}, {_y}, {_newZ}) to purple stained glass
+            else if {_char} is "o":
+                set block at location({_x}, {_y}, {_newZ}) to magenta stained glass
+            else if {_char} is "p":
+                set block at location({_x}, {_y}, {_newZ}) to pink stained glass
+            else if {_char} is "q":
+                set block at location({_x}, {_y}, {_newZ}) to white concrete
+            else if {_char} is "r":
+                set block at location({_x}, {_y}, {_newZ}) to light gray concrete
+            else if {_char} is "s":
+                set block at location({_x}, {_y}, {_newZ}) to gray concrete
+            else if {_char} is "t":
+                set block at location({_x}, {_y}, {_newZ}) to black concrete
+            else if {_char} is "u":
+                set block at location({_x}, {_y}, {_newZ}) to brown concrete
+            else if {_char} is "v":
+                set block at location({_x}, {_y}, {_newZ}) to red concrete
+            else if {_char} is "w":
+                set block at location({_x}, {_y}, {_newZ}) to orange concrete
+            else if {_char} is "x":
+                set block at location({_x}, {_y}, {_newZ}) to yellow concrete
+            else if {_char} is "y":
+                set block at location({_x}, {_y}, {_newZ}) to lime concrete
+            else if {_char} is "z":
+                set block at location({_x}, {_y}, {_newZ}) to green concrete
