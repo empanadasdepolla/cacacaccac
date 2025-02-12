@@ -1,0 +1,15 @@
+{
+  "mts:rtfm": {
+    "criteria": {
+      "has_manual": "2025-02-12 00:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2025-02-12 00:49:55 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}

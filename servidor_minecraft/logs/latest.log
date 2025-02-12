@@ -11876,3 +11876,56 @@
 [00:38:34] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Camilacapita lost connection: Disconnected
 [00:38:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita left the game
 [00:38:41] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[00:47:13] [Server thread/INFO] [tac/]: PENDING
+[00:47:41] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sofx0Loder issued server command: /escribir hola
+[00:47:46] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sofx0Loder issued server command: /escribir holañ
+[00:48:44] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sofx0Loder issued server command: //hcyl minecraft:red_concrete 5
+[00:48:59] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sofx0Loder issued server command: //undo
+[00:49:02] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sofx0Loder issued server command: //hcyl minecraft:red_concrete 3
+[00:49:07] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sofx0Loder issued server command: //hcyl minecraft:red_concrete 3
+[00:49:08] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sofx0Loder issued server command: //undo
+[00:49:09] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sofx0Loder issued server command: //undo
+[00:49:14] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sofx0Loder issued server command: //hcyl minecraft:dirt 3
+[00:49:35] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sofx0Loder issued server command: //undo
+[00:49:39] [User Authenticator #6/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Camilacapita is c64bf41b-1785-3499-994a-a5487fb10ac4
+[00:49:39] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 20 mods : minecraft, framedblocks, blockyragecivil, blockyragecraft, blockyrageaftermarket, blockyrageheavy, mtsofficialpack, minecraftmodernxl, obfuscate, forge, tac, knightquestbp, tlskincape, luckytntmod, mts, craftspeed, craftspeedengines, craftspeedwheels, craftspeedparts, craftspeedplates
+[00:49:44] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Camilacapita[/127.233.156.68:43079] logged in with entity id 12,471 at (-2,277.509, 71, 309.188)
+[00:49:44] [Server thread/INFO] [tac/]: PENDING
+[00:49:49] [User Authenticator #7/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player iiHo_shi is 2f230b71-ed3a-3721-84e3-7041a163d6e1
+[00:49:51] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 20 mods : minecraft, framedblocks, blockyragecivil, blockyragecraft, blockyrageaftermarket, blockyrageheavy, mtsofficialpack, minecraftmodernxl, obfuscate, forge, tac, knightquestbp, tlskincape, luckytntmod, mts, craftspeed, craftspeedengines, craftspeedwheels, craftspeedparts, craftspeedplates
+[00:49:55] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: iiHo_shi[/127.239.243.88:41899] logged in with entity id 12,525 at (-2,295.5, 72, 316.5)
+[00:49:55] [Server thread/INFO] [tac/]: PENDING
+[00:49:58] [Server thread/ERROR] [mcinterface1165.InterfaceLoader/]: MTSERROR: ConfigSystem failed to save modified config files.  Report to the mod author!
+[00:49:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: iiHo_shi has made the advancement [RTFM]
+[00:49:58] [Async Chat Thread - 4/INFO] [/]: <Camilacapita> leo puedo molestar a fran :3?
+[00:50:02] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: iiHo_shi was kicked for floating too long!
+[00:50:02] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: iiHo_shi lost connection: Flying is not enabled on this server
+[00:50:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: iiHo_shi left the game
+[00:50:16] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sofx0Loder issued server command: /tp @a Sofx0Loder
+[00:50:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sofx0Loder: Teleported 3 entities to Sofx0Loder]
+[00:50:29] [User Authenticator #8/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player iiHo_shi is 2f230b71-ed3a-3721-84e3-7041a163d6e1
+[00:50:31] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 20 mods : minecraft, framedblocks, blockyragecivil, blockyragecraft, blockyrageaftermarket, blockyrageheavy, mtsofficialpack, minecraftmodernxl, obfuscate, forge, tac, knightquestbp, tlskincape, luckytntmod, mts, craftspeed, craftspeedengines, craftspeedwheels, craftspeedparts, craftspeedplates
+[00:50:52] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: iiHo_shi[/127.239.243.88:60999] logged in with entity id 12,692 at (-2,295.5, 71.769, 316.5)
+[00:50:52] [Server thread/INFO] [tac/]: PENDING
+[00:50:55] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sofx0Loder issued server command: /tp @a Sofx0Loder
+[00:50:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sofx0Loder: Teleported 4 entities to Sofx0Loder]
+[00:50:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita fell from a high place
+[00:50:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flancito0_ fell from a high place
+[00:50:58] [Server thread/INFO] [tac/]: PENDING
+[00:50:58] [Server thread/INFO] [tac/]: PENDING
+[00:50:58] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: iiHo_shi was kicked for floating too long!
+[00:50:58] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: iiHo_shi lost connection: Flying is not enabled on this server
+[00:50:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: iiHo_shi left the game
+[00:51:28] [Async Chat Thread - 5/INFO] [/]: <Camilacapita> uwu
+[00:51:38] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sofx0Loder issued server command: //hcyl minecraft:green_concrete 10
+[00:51:43] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sofx0Loder issued server command: //undo
+[00:51:48] [User Authenticator #9/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player iiHo_shi is 2f230b71-ed3a-3721-84e3-7041a163d6e1
+[00:51:50] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sofx0Loder issued server command: //hcyl minecraft:light_green_concrete 10
+[00:51:51] [Async Chat Thread - 5/INFO] [/]: <Camilacapita> unu
+[00:51:51] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 20 mods : minecraft, framedblocks, blockyragecivil, blockyragecraft, blockyrageaftermarket, blockyrageheavy, mtsofficialpack, minecraftmodernxl, obfuscate, forge, tac, knightquestbp, tlskincape, luckytntmod, mts, craftspeed, craftspeedengines, craftspeedwheels, craftspeedparts, craftspeedplates
+[00:52:03] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: iiHo_shi[/127.239.243.88:53289] logged in with entity id 12,799 at (-2,329.438, 97.182, 337.387)
+[00:52:03] [Server thread/INFO] [tac/]: PENDING
+[00:52:09] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: iiHo_shi was kicked for floating too long!
+[00:52:09] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: iiHo_shi lost connection: Flying is not enabled on this server
+[00:52:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: iiHo_shi left the game
+[00:52:23] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sofx0Loder issued server command: //hcyl minecraft:lime_wool 10
