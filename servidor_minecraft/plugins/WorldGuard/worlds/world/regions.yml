@@ -10,35 +10,19 @@
 # REMEMBER TO KEEP PERIODICAL BACKUPS.
 #
 regions:
-    spawn:
-        min: {x: -2345, y: 81, z: 319}
-        max: {x: -2235, y: 84, z: 388}
+    paredes2:
+        min: {x: -2277, y: 71, z: 325}
+        max: {x: -2276, y: 110, z: 410}
         members: {}
         flags: {}
         owners: {}
         type: cuboid
         priority: 0
-    spawn1:
-        min: {x: -2408, y: 0, z: 260}
-        max: {x: -2202, y: 255, z: 464}
-        members:
-            unique-ids: [c64bf41b-1785-3499-994a-a5487fb10ac4, 807d4b02-2892-3ac2-a000-a9c5173caa95]
-        flags: {other-explosion: deny, creeper-explosion: deny, vehicle-place: allow,
-            vehicle-destroy: allow, tnt: deny}
-        owners: {}
-        type: cuboid
-        priority: 0
-    escribe:
-        min: {x: -2335, y: 70, z: 332}
-        max: {x: -2325, y: 70, z: 344}
+    paredes1:
+        min: {x: -2320, y: 71, z: 367}
+        max: {x: -2233, y: 110, z: 368}
         members: {}
         flags: {}
         owners: {}
         type: cuboid
-        priority: 0
-    __global__:
-        members: {}
-        flags: {tnt: deny}
-        owners: {}
-        type: global
         priority: 0

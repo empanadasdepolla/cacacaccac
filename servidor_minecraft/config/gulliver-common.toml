@@ -1,0 +1,56 @@
+
+[General]
+	#Set true to require permission for own size changing
+	REQUIRE_PERMISSION = false
+	#UUID of members can ignore permission for own size changing
+	WHITELIST = []
+	#Set the maximum player size
+	#Range: 1.0 ~ 3.4028234663852886E38
+	MAX_SIZE = 100.0
+	#Set the maximum player size (non-op)
+	#Range: 1.0 ~ 3.4028234663852886E38
+	MAX_SIZE_USER = 20.0
+	#Set the health multiplier
+	#Range: 1.401298464324817E-45 ~ 3.4028234663852886E38
+	HEALTH_MULTIPLIER = 1.0
+
+[Modifier]
+	#Enable/disable the speed modifier
+	SPEED_MODIFIER = true
+	#Enable/disable the health modifier
+	HEALTH_MODIFIER = true
+	#Enable/disable the reach modifier
+	REACH_MODIFIER = true
+	#Enable/disable the strength modifier
+	STRENGTH_MODIFIER = true
+	#Enable/disable the harvest speed modifier
+	HARVEST_MODIFIER = true
+	#Enable/disable the jump height modifier
+	JUMP_MODIFIER = true
+
+[Feature]
+	#Enable/disable hot blocks giving gliding players lift (requires the ability to glide with paper to be enabled)
+	HOT_BLOCKS_GIVE_LIFT = true
+	#Enable/disable the ability to pick up small entities
+	PICKUP_SMALL_ENTITIES = true
+	#Player render is more normal at small sizes, but may cause problems with other mods
+	DO_ADJUSTED_RENDER = true
+	#Enable/disable scaled fall damage
+	SCALED_FALL_DAMAGE = true
+	#Enable/disable plants slowing down small players
+	PLANTS_SLOW_SMALL_DOWN = true
+	#Enable/disable the ability to ride large entities with String
+	RIDE_BIG_ENTITIES = true
+	#Enable/disable the ability to climb with Slimeballs or Slime Blocks
+	CLIMB_WITH_SLIME = true
+	#Enable/disable rose/poppy thorns
+	ROSES_HURT = true
+	#Enable/disable the ability to glide with paper
+	GLIDE_WITH_PAPER = true
+	#Enable/disable the ability to climb some blocks (dirt, grass, leaves, etc)
+	CLIMB_SOME_BLOCKS = true
+	#Enable/disable the ability for small players to be unnoticed by non-ocelots and non-spiders
+	SMALL_IS_INVISIBLE_TO_NONCATS_OR_NONSPIDERS = true
+	#Enable/disable the ability for giants to crush small entities
+	GIANTS_CRUSH_ENTITIES = true
+
